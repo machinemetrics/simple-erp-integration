@@ -5,7 +5,7 @@ Drive MachineMetrics with job information from your ERP.
 
 Clone the repository and run `npm i` in the root directory. See the instructions below for acquiring an API key, configuring your environment and machines for ERP integration, and use the examples at the end of this ReadMe as a starting point. For a full list of supported arguments, see the full API documentation for dispatching jobs in MachineMetrics at the following links:
 
-https://developers.machinemetrics.com/v0.9/reference#erpjobdispatchstart
+https://developers.machinemetrics.com/reference#erpjobdispatchstart
 https://developers.machinemetrics.com/reference#erpjobdispatchid
 https://developers.machinemetrics.com/reference#erpjobdispatchstop
 
