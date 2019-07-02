@@ -1,0 +1,24 @@
+{
+  "name": "simple-erp-integration",
+  "version": "1.0.0",
+  "description": "Simple console-based use of the Job Dispatch API endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lauzierj@github.com/machinemetrics/simple-erp-integration.git"
+  },
+  "author": "Jacob Lauzier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machinemetrics/simple-erp-integration/issues"
+  },
+  "homepage": "https://github.com/machinemetrics/simple-erp-integration#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "yargs": "^13.2.4"
+  }
+}
