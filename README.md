@@ -57,7 +57,7 @@ A token is required to authorize your requests to the MachineMetrics APIs. To ge
 
 ## Example
 
-The following example can be found on Github at https://github.com/machinemetrics/simple-erp-integration. Since every ERP integration will be different and will require a deep understanding of the ERP being integrated, this example is a simple command-line application that allows you to start and stop jobs in MachineMetrics using the Job Dispatch API endpoints. This works as a starting point to provide an understanding of how the API endpoints work and what arguments should be passed.
+Since every ERP integration will be different and will require a deep understanding of the ERP being integrated, this example is a simple command-line application that allows you to start and stop jobs in MachineMetrics using the Job Dispatch API endpoints. This works as a starting point to provide an understanding of how the API endpoints work and what arguments should be passed.
 
 ```
 > node index.js --api-key API_KEY --action start --erpJobOperationRunId 8 --erpMachineId TEST --jobName job1 --partName part1 --cycletime 5000
